@@ -24,17 +24,23 @@ https://github.com/kinesys
 # 참여한 대회 및 행사
 
 NYPC 2017
+
 ———————————————————————————————————-
+
 NYPC 2018
 정보올림피아드 공모전 2018
+
 ————————————————————————————————————
+
 NYPC 2019
 Trust ctf 2019
 New secu challenge 2019
 The hacking championship 2019
 Christmas CTF 2019
 AI plus 2019
+
 —————————————————————————————————————
+
 삼성 주니어 sw 공모대회
 Codegate 2020
 Defenit CTF 2020
@@ -47,7 +53,9 @@ ANU CTF 2020
 Samsung Techtonic 2020(SDS)
 BISC CTF 2020
 Christmas CTF 2020
+
 ————————————————————————————————————-
+
 LogCon 2021
 Datalog 웨비나 2021
 Trust ctf 2021
